@@ -69,15 +69,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahmadempg&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmadempg&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### 📌 Featured Work
 
 - 🔹 **AVA — Internal AI Copilot & Autonomous Delivery Pipeline** *(Dubizzle Labs, proprietary — described in resume/portfolio)*: MCP servers, RAG knowledge base, Claude-driven ticket-to-PR pipeline
