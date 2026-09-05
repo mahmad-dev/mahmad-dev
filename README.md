@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer — Backend, Full-Stack & AI Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=3%2B+years+building+backend+%26+AI+systems+at+scale;Node.js+%7C+TypeScript+%7C+NestJS+%7C+MCP+%7C+RAG;Shipped+AVA%3A+an+internal+AI+copilot+%26+delivery+pipeline;M.Sc.+Computer+%26+System+Engineering+%40+TU+Ilmenau" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=3%2B+years+building+backend+%26+AI+systems+at+scale;Node.js+%7C+TypeScript+%7C+NestJS+%7C+MCP+%7C+RAG;Shipped+AVA%3A+an+internal+AI+copilot+%26+delivery+pipeline;Shipped+Career+OS+%26+rag-integrity-guard%3A+live%2C+benchmarked+AI+systems;M.Sc.+Computer+%26+System+Engineering+%40+TU+Ilmenau" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 
 - 💼 **Senior Software Engineer** with 3+ years across **Backend, Full-Stack & AI Systems**, scaling platforms for **Zameen.com, Bayut.sa and Propforce** (40M+ monthly users) at Dubizzle Labs
 - 🧠 Built **AVA** — an internal AI copilot & autonomous delivery pipeline: MCP servers for live data access, RAG knowledge search, and an agentic pipeline that turns a chat request into a shipped, tested PR
+- 🛠️ Shipped two live personal AI systems: **[Career OS](https://germany-career-os.vercel.app/)** — a career-ops console scoring three parallel job-search tracks from one evidence-backed profile — and **[rag-integrity-guard](https://rag-integrity-guard-1r0wict7l-mahmad-devs-projects.vercel.app/)** — a RAG retrieval-integrity layer benchmarked at 100% detection / 0% false positives
 - 🎓 Currently an **M.Sc. Research student in Computer & System Engineering** at **TU Ilmenau**, Germany
 - 🔬 Co-building a **data-integrity layer for a LangChain QnA system** with 2 PhD collaborators — content-fingerprint verification anchored on Polygon/IPFS (paper in progress)
 - 🎯 **Open to Senior/Mid Backend & AI Backend Engineer roles** (and Werkstudent) in Germany — remote or relocation
@@ -71,8 +72,10 @@
 
 ### 📌 Featured Work
 
+- 🔹 **[Career OS](https://github.com/mahmad-dev/germany-career-os)** ([live](https://germany-career-os.vercel.app/)) — a personal career-ops console running three simultaneous job-search tracks from one evidence-backed profile, with a deterministic 11-factor scorer and a fabrication-guarded LLM second opinion · `Next.js 16 · TypeScript · Drizzle/Postgres`
+- 🔹 **[rag-integrity-guard](https://github.com/mahmad-dev/rag-integrity-guard)** ([live](https://rag-integrity-guard-1r0wict7l-mahmad-devs-projects.vercel.app/)) — a from-scratch RAG retrieval-integrity layer: every chunk fingerprinted at ingestion and re-verified at query time — 100% detection / 0% false positives across three attack types on a 500-pair public benchmark · `Python · FastAPI · LangChain`
 - 🔹 **AVA — Internal AI Copilot & Autonomous Delivery Pipeline** *(Dubizzle Labs, proprietary — described in resume/portfolio)*: MCP servers, RAG knowledge base, Claude-driven ticket-to-PR pipeline
-- 🔹 **Data-Integrity Layer for a LangChain QnA System** — content-fingerprint verification anchored on Polygon/IPFS · `LangChain · Python · Polygon · IPFS`
+- 🔹 **Data-Integrity Layer for a LangChain QnA System** *(academic research, separate from rag-integrity-guard above)* — content-fingerprint verification anchored on Polygon/IPFS · `LangChain · Python · Polygon · IPFS`
 - 🔹 **Decentralized Property Management Platform** (final-year thesis) — Solidity smart contracts + Node.js/MongoDB backend · repo: `Decentralized-Record-Filing-System`
 - 🔹 **[goclaw](https://github.com/mahmad-dev/goclaw)** — Go rebuild of an AI agent framework with multi-tenant isolation and native concurrency
 
