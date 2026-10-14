@@ -1,26 +1,42 @@
-<h1 align="center">Hi, I'm Muhammad Ahmad 👋</h1>
-<h3 align="center">Software Engineer — Backend, Full-Stack & AI Systems</h3>
+<a href="https://mahmad-dev.github.io/"><img src="assets/banner.png" alt="Muhammad Ahmad, AI &amp; Full-Stack Engineer" width="100%"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=3%2B+years+building+backend+%26+AI+systems+at+scale;Node.js+%7C+TypeScript+%7C+NestJS+%7C+MCP+%7C+RAG;Shipped+AVA%3A+an+internal+AI+copilot+%26+delivery+pipeline;Shipped+Career+OS+%26+rag-integrity-guard%3A+live%2C+benchmarked+AI+systems;M.Sc.+Computer+%26+System+Engineering+%40+TU+Ilmenau" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=22D3EE&center=true&vCenter=true&width=720&lines=Five+years+in+software%2C+three+on+production+systems;RAG+pipelines+%C2%B7+MCP+gateways+%C2%B7+agentic+workflows;AVA%3A+a+chat+request+becomes+a+reviewed+pull+request;Zara+AI%3A+autonomous+calling+across+10%2B+campaigns;M.Sc.+Computer+%26+System+Engineering+%40+TU+Ilmenau" alt="Five years in software, three on production systems" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmad12/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mahmad-dev.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahmad12/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mahmad-dev.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mahmad-dev.github.io/assets/Muhammad_Ahmad_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-8A3FFC?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
+  <a href="mailto:ahmad.arshad7869@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### AI engineer building retrieval systems, MCP gateways and agentic workflows that hold up in production.
 
-- 💼 **Senior Software Engineer** with 3+ years across **Backend, Full-Stack & AI Systems**, scaling platforms for **Zameen.com, Bayut.sa and Propforce** (40M+ monthly users) at Dubizzle Labs
-- 🧠 Built **AVA** — an internal AI copilot & autonomous delivery pipeline: MCP servers for live data access, RAG knowledge search, and an agentic pipeline that turns a chat request into a shipped, tested PR
-- 🛠️ Shipped two live personal AI systems: **[Career OS](https://germany-career-os.vercel.app/)** — a career-ops console scoring three parallel job-search tracks from one evidence-backed profile — and **[rag-integrity-guard](https://rag-integrity-guard-1r0wict7l-mahmad-devs-projects.vercel.app/)** — a RAG retrieval-integrity layer benchmarked at 100% detection / 0% false positives
-- 🎓 Currently an **M.Sc. Research student in Computer & System Engineering** at **TU Ilmenau**, Germany
-- 🔬 Co-building a **data-integrity layer for a LangChain QnA system** with 2 PhD collaborators — content-fingerprint verification anchored on Polygon/IPFS (paper in progress)
-- 🎯 **Open to Senior/Mid Backend & AI Backend Engineer roles** (and Werkstudent) in Germany — remote or relocation
-- 📫 [LinkedIn](https://www.linkedin.com/in/mahmad12/) · [Portfolio](https://mahmad-dev.github.io/)
+**Forward Deployed Engineer II** at **UnternehmerTUM's Venture Lab** in Munich, taking AI use cases from concept to deployed internal product on multi-day cycles. Before that, three years at **Dubizzle Labs** on the backends behind Zameen.com, Bayut.sa and Propforce (40M+ monthly users), and the AI layer I built on top of them. Five years shipping software, now from Germany. M.Sc. candidate at TU Ilmenau.
+
+---
+
+### 📌 Selected work
+
+Most of this ran inside company infrastructure, so the repository is not the artifact. Every row links to something you can actually check.
+
+| System | What it does | Evidence |
+| :--- | :--- | :--- |
+| 🛡️ **[rag-integrity-guard](https://github.com/mahmad-dev/rag-integrity-guard)**<br>`open source` | Fingerprints every RAG chunk at ingestion and re-verifies it at query time, catching a poisoned or tampered chunk before it reaches the model | [MIT source](https://github.com/mahmad-dev/rag-integrity-guard) · [benchmark report](https://github.com/mahmad-dev/rag-integrity-guard/blob/main/apps/api/data/benchmark_report.json) |
+| 📞 **Zara AI calling workflow**<br>`Dubizzle Labs` | Campaign orchestration for an AI voice agent: callbacks, follow-ups, task creation and WhatsApp follow-through across two CRMs, with an on/off switch the business team operates without a deploy | [case study](https://mahmad-dev.github.io/project-zara-calling.html) · [manager's reference](https://mahmad-dev.github.io/#rec-zeeshan) |
+| 🤖 **AVA copilot**<br>`Dubizzle Labs` | A chat request becomes clarified requirements, LLM-drafted wireframes, a filed Jira ticket, and a branch opened as a pull request under human review | [case study](https://mahmad-dev.github.io/project-sdlc.html) · [manager's reference](https://mahmad-dev.github.io/#rec-zeeshan) |
+| 🔌 **MCP gateway**<br>`Dubizzle Labs` | Internal microservice APIs exposed to LLM agents as typed, permissioned tools, with dynamic schema generation, per-caller rate limiting and full invocation logging | [case study](https://mahmad-dev.github.io/project-mcp.html) · [manager's reference](https://mahmad-dev.github.io/#rec-zeeshan) |
+| 🧭 **[Career OS](https://germany-career-os.vercel.app/)**<br>`live` | Three parallel job searches from one evidence-backed profile, pairing a deterministic 11-factor scorer with a fabrication-guarded LLM second opinion | [live app](https://germany-career-os.vercel.app/) · [case study](https://mahmad-dev.github.io/project-career-os.html) |
+| 💬 **[Ask Ahmad](https://ask-ahmad.vercel.app)**<br>`live` | A retrieval-grounded twin that answers only from published material and refuses when no source supports an answer | [ask it yourself](https://ask-ahmad.vercel.app) |
+
+> Nothing above is claimed without a link. If a row had no evidence, it is not in the table.
+
+### 🔬 Research
+
+**Data-integrity layer for LangChain QnA systems**, with two PhD researchers at the University of Verona. Blockchain-anchored Merkle fingerprints over a retrieval corpus, re-verified at inference time, so tampering with source documents is caught before a poisoned answer is served. *Paper in progress.*
 
 ---
 
@@ -54,6 +70,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -70,15 +87,12 @@
 
 ---
 
-### 📌 Featured Work
+### 🎯 Currently
 
-- 🔹 **[Career OS](https://github.com/mahmad-dev/germany-career-os)** ([live](https://germany-career-os.vercel.app/)) — a personal career-ops console running three simultaneous job-search tracks from one evidence-backed profile, with a deterministic 11-factor scorer and a fabrication-guarded LLM second opinion · `Next.js 16 · TypeScript · Drizzle/Postgres`
-- 🔹 **[rag-integrity-guard](https://github.com/mahmad-dev/rag-integrity-guard)** ([live](https://rag-integrity-guard-1r0wict7l-mahmad-devs-projects.vercel.app/)) — a from-scratch RAG retrieval-integrity layer: every chunk fingerprinted at ingestion and re-verified at query time — 100% detection / 0% false positives across three attack types on a 500-pair public benchmark · `Python · FastAPI · LangChain`
-- 🔹 **AVA — Internal AI Copilot & Autonomous Delivery Pipeline** *(Dubizzle Labs, proprietary — described in resume/portfolio)*: MCP servers, RAG knowledge base, Claude-driven ticket-to-PR pipeline
-- 🔹 **Data-Integrity Layer for a LangChain QnA System** *(academic research, separate from rag-integrity-guard above)* — content-fingerprint verification anchored on Polygon/IPFS · `LangChain · Python · Polygon · IPFS`
-- 🔹 **Decentralized Property Management Platform** (final-year thesis) — Solidity smart contracts + Node.js/MongoDB backend · repo: `Decentralized-Record-Filing-System`
-- 🔹 **[goclaw](https://github.com/mahmad-dev/goclaw)** — Go rebuild of an AI agent framework with multi-tenant isolation and native concurrency
+- 🇩🇪 Open to **full-time AI & backend engineering roles**, Germany or remote. EU Blue Card eligible
+- 🎓 **M.Sc. Computer & System Engineering**, TU Ilmenau
+- 📫 [LinkedIn](https://www.linkedin.com/in/mahmad12/) · [Portfolio](https://mahmad-dev.github.io/) · [ahmad.arshad7869@gmail.com](mailto:ahmad.arshad7869@gmail.com)
 
 ---
 
-<p align="center"><i>🇩🇪 Exploring backend / AI engineering opportunities in Germany — let's connect!</i></p>
+<p align="center"><sub>Building an AI system that has to survive production? Write to me.</sub></p>
